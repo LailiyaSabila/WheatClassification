@@ -1,9 +1,5 @@
-
----
-
 📄 README.md
 
-```markdown
 # 🌾 Neural Network untuk Klasifikasi Biji Gandum (Wheat Classification)
 
 Program ini membangun dan menguji sebuah model jaringan saraf tiruan (Neural Network) sederhana yang ditulis dalam bahasa pemrograman Rust. Model ini digunakan untuk mengklasifikasikan jenis biji gandum berdasarkan fitur fisiknya.
@@ -45,7 +41,7 @@ Pastikan kamu sudah menginstal `Rust` dan `cargo`.
 
 ```bash
 cargo run
-```
+
 
 4. Output akan menunjukkan:
    - Jumlah data
