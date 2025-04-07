@@ -70,8 +70,3 @@ ndarray-rand = "0.14"
 
 - Model ini hanya menggunakan satu sampel untuk forward pass, tidak melakukan pelatihan (training).
 - Visualisasi arsitektur dibuat secara manual sesuai dengan ukuran layer dari kode.
-```
-
----
-
-Kalau kamu ingin file README.md ini aku bantu simpan langsung dalam format file, tinggal bilang aja ya! Mau sekalian aku bantu bikin file `.dot` untuk Graphviz juga?
