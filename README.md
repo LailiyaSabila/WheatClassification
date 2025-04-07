@@ -38,10 +38,9 @@ Pastikan kamu sudah menginstal `Rust` dan `cargo`.
 1. Clone atau salin repositori ini
 2. Letakkan file `seeds_dataset.txt` di direktori yang sama dengan `main.rs`
 3. Jalankan perintah berikut di terminal:
-
 ```bash
 cargo run
-
+```
 
 4. Output akan menunjukkan:
    - Jumlah data
